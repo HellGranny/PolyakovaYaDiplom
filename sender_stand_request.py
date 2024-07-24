@@ -1,4 +1,3 @@
-# Полякова Елизавета, 19 когорта Venus - Финальный проект. Инженер по тестированию плюс
 import configuration
 import requests
 import data
